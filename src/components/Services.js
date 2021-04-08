@@ -19,7 +19,7 @@ export default class Services extends Component {
             {
                 icon:<FaShuttleVan/>,
                 title:"Free shuttle",
-                info: "provides free shuttle bus service between airline terminals, the Rental Car Center, the Water Transportation dock and Airport Station on the MBTA Blue Line."
+                info: "Provides free shuttle bus service between airline terminals, the Rental Car Center, the Water Transportation dock and Airport Station on the MBTA Blue Line."
              
             },
             {
